@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me:
 
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img height="350" width="500" alt="Cybersecurity GIF" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - I'm a **Cybersecurity Enthusiast** from Egypt 🇪🇬  
 - Passionate about **Network Security**, **Penetration Testing**, and **Threat Analysis**  
@@ -46,4 +46,16 @@
   <img align="left" alt="Gmail" width="130" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/mohamed-khaled-al-azazy-873b2b243">
-  <img align="left" alt="LinkedIn" width="150" src="https://git
+  <img align="left" alt="LinkedIn" width="150" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</a>
+</p>
+
+</br>
+</br>
+</br>
+
+<p align="center">  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=m7medkhalid&show_icons=true&theme=radical"/>
+  </a>
+</p>
