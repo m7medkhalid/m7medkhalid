@@ -1,5 +1,11 @@
 # Mohamed Khaled 👋
 
+<div align="center">
+  <img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+
 ## 👨‍💻 About Me:
 
 <img height="350" width="500" alt="Cybersecurity GIF" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -33,29 +39,4 @@
 <p align="center">
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="Python" width="120">
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="Bash" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="Data Science" width="180">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="VS Code" width="240">
-</p>
-
-</br>
-
-## 📫 Contact Me:
-
-<p>
-<a href="mailto:engmohammedkhaled1@gmail.com">
-  <img align="left" alt="Gmail" width="130" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/mohamed-khaled-al-azazy-873b2b243">
-  <img align="left" alt="LinkedIn" width="150" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</a>
-</p>
-
-</br>
-</br>
-</br>
-
-<p align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=m7medkhalid&show_icons=true&theme=radical"/>
-  </a>
-</p>
+  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="Data Science"
