@@ -1,5 +1,11 @@
 # Mohamed Khaled 👋
 
+<div align="center">
+<img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+
 ## 👨‍💻 About Me:
 
 <img height="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
@@ -59,3 +65,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=m7medkhalid&show_icons=true&theme=radical"/>
   </a>
 </p>
+
